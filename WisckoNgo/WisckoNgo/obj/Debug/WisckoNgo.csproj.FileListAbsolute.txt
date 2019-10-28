@@ -1,0 +1,38 @@
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\bin\Debug\WisckoNgo.exe.config
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\bin\Debug\WisckoNgo.exe
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\bin\Debug\WisckoNgo.pdb
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.csprojResolveAssemblyReference.cache
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Asistencia.resources
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Cuenta.resources
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Horario.resources
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Properties.Resources.resources
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.csproj.GenerateResource.Cache
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.exe
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.pdb
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Login.resources
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Notificaciones.resources
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.MainForm.resources
+C:\Users\alans\Desktop\desktop junk\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.EscanearCredenciales.resources
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\bin\Debug\WisckoNgo.exe.config
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\bin\Debug\WisckoNgo.exe
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\bin\Debug\WisckoNgo.pdb
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.csprojResolveAssemblyReference.cache
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Asistencia.resources
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Cuenta.resources
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.EscanearCredenciales.resources
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.MainForm.resources
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Horario.resources
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Login.resources
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Notificaciones.resources
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.Properties.Resources.resources
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.csproj.GenerateResource.Cache
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.exe
+C:\Users\alans\Desktop\WisckoNgo\WisckoNgo\obj\Debug\WisckoNgo.pdb
